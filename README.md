@@ -26,3 +26,12 @@ npm run lint
 ## 배포
 
 `main`에 푸시하면 GitHub Actions가 빌드해 GitHub Pages에 배포합니다 (저장소 설정 → Pages → Source: GitHub Actions).
+
+## 라이선스
+
+[공공누리](https://www.kogl.or.kr/info/introduce.do) 라이선스에 의거하여 배포됩니다.
+- 대한민국정부상징체: [공공누리](https://www.kogl.or.kr/recommend/recommendDivView.do?recommendIdx=9510&division=font)  
+- Pretendard JP (한국한자정체표기용, ss05 variant): [https://github.com/orioncactus/pretendard/tree/main/packages/pretendard-jp](https://github.com/orioncactus/pretendard/tree/main/packages/pretendard-jp)
+
+## 면책사항
+Claude "딸깍" 이므로 정상 작동을 보장하지 않습니다. 진짜 제대로 검토 안했기 때문에 "AI Slop" 입니다. 감사합니다.
