@@ -23,10 +23,6 @@ npm run lint
 - 대한민국정부상징체: `src/assets/fonts/ROKG_R.woff2`, `ROKG_R.woff` (원본 TTF에서 변환)
 - Pretendard JP: [jsDelivr](https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/)
 
-## 배포
-
-`main`에 푸시하면 GitHub Actions가 빌드해 GitHub Pages에 배포합니다 (저장소 설정 → Pages → Source: GitHub Actions).
-
 ## 라이선스
 
 [공공누리](https://www.kogl.or.kr/info/introduce.do) 라이선스에 의거하여 배포됩니다.
